@@ -76,6 +76,49 @@ Wyświetlanie
 
 .. note::
 
-   Szybka publikacja zaciąga date i czas z :ref:`Daty i czasu <RST Overview>` 
+   Szybka publikacja zaciąga date i czas z zakładki :ref:`Data i Czas<czas>` 
+
+Aby Spotkanie sie wyswietlało należy najpierw je włączyć za pomocą przełądnika obok nazwy
+
+what
+   Grupa
+
+how
+   Wyświetla grópę przy spotkaniu
+
+what
+   podtytuł
+
+how
+   Wyświetla podtytuł spotkania
+
+what
+   kierownik
+
+how
+   Wyświetla kierownika spotkania
+
+what
+   prowadzący
+
+how
+   Wyświetla prowadzącego spotkania
+
+
+.. note::
+
+   Aby zatwierdzić generacje ekranu nalezy nacisnąć wygeneruj w górnej części ekranu
+
+
+Wirtualny Ekran
+---------------
+
+Podgląd opublikowanych i nie opublikowanych wpisów
+
+
+Ekran HOL
+---------
+
+Podgląd tego co wyswietla się na ekranie informacyjnym
 
 
