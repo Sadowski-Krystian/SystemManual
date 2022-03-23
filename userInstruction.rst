@@ -14,6 +14,7 @@ Ręczny wpis
 
    Ręczny wpis jest aktualnie nie dostępny
 
+
 Aby dodać ręczny wpis należy podać tytuł wpisy oraz jego krótki opis
 
 
