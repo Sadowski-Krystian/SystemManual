@@ -4,7 +4,7 @@ Witam w Dokumentacji do Systemu ekranów
 
 
 Sprawdź :doc:`userInstruction` po informacje dla użytkownika
-oraz :ref:`adminManual` po informacje dla administratora sieci,
+oraz :doc:`adminManual` po informacje dla administratora sieci,
 
 .. note::
 
